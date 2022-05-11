@@ -9,9 +9,9 @@ def mmc(a, b, c):
         if i%a == 0 and i%b == 0 and i%c == 0:
             break
     return i
-b = 2520
-c = 11
+a = 2520
+b = 11
 for i in range(1, 6):
-    b = mmc(b, c, c+1)
-    c += 2
-print(b)
+    a = mmc(a, b, b+1)
+    b += 2
+print(a)
