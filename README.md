@@ -1,5 +1,14 @@
 # Problemas-do-projec-Euler
- Aqui estou postando algumas soluções por mim desenvolvidas
+ ***
+ 
+ Esse repositório tem por objetivo abrigar algumas soluções dos problemas do site [ProjectEuler](https://projecteuler.net/). Esse site, propõem problemas matemático para serem resolvidos via computador por algumalingugem de programação.
+
+ ## Divisões
 
 
-Para encontrar esses problemas basta ir *->* [ProjectEuler](https://projecteuler.net/)
+* Nas pastas, estarei colocando as soluções feitas por mim. Cada arquivo representa uma solução e os comentários são feitos no corpo do próprio código.
+
+* Nos Notebook's, estarei colocando as soluções otimizadas e/ou com alguma ideia bacana.
+
+
+## 
