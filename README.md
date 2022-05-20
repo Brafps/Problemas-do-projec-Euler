@@ -1,4 +1,4 @@
-# Problemas-do-projec-Euler
+# Problemas do ![](https://projecteuler.net/themes/logo_dark.png)
  ***
  
  Esse repositório tem por objetivo abrigar algumas soluções dos problemas do site [ProjectEuler](https://projecteuler.net/). Esse site, propõem problemas matemático para serem resolvidos via computador por algumalingugem de programação.
@@ -36,4 +36,4 @@ Se quiser trocar ideia e compararmos estatísticas
 My Own Key
 :---:
 1942207_HKNb88Il0UaGVkIf31RBO0jcwbdk2O7y
-Data da Atualização - 18/05/2022
+Última Atualização - 18/05/2022
