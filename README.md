@@ -6,9 +6,10 @@
  ## Divisões
 
 
-* Nas pastas, estarei colocando as soluções feitas por mim. Cada arquivo representa uma solução e os comentários são feitos no corpo do próprio código.
-
-* Nos Notebook's, estarei colocando as soluções otimizadas e/ou com alguma ideia bacana.
+* As pastas serão separadas em fragmentos de 25 problemas.
+* Nessas pastas, estarei colocando notebooks com as soluções comentadados e feitas por mim.
+* Pode ser que eu também coloque alguma solução que eu achei interessante logo abaixo da minha
+* Também fiz um Notebook com todos os problemas que eu resolvi daquela pasta.
 
 
 ## Progresso
